@@ -25,19 +25,19 @@ monitors:
     linkable: true # allows the title to be a link, default=true
 
   - id: www-sexlikereal-jp # unique identifier
-      name: www.sexlikereal.jp
-      # description: 'You write code. They handle the rest.' # default=empty
-      url: 'https://www.sexlikereal.jp/' # URL to fetch
-      method: GET # default=GET
-      expectStatus: 200 # operational status, default=200
-      followRedirect: false # should fetch follow redirects, default=false
-      linkable: true # allows the title to be a link, default=true
+    name: www.sexlikereal.jp
+    # description: 'You write code. They handle the rest.' # default=empty
+    url: 'https://www.sexlikereal.jp/' # URL to fetch
+    method: GET # default=GET
+    expectStatus: 200 # operational status, default=200
+    followRedirect: false # should fetch follow redirects, default=false
+    linkable: true # allows the title to be a link, default=true
 
   - id: deovr-com # unique identifier
-      name: deovr.com
-      # description: 'You write code. They handle the rest.' # default=empty
-      url: 'https://deovr.com/' # URL to fetch
-      method: GET # default=GET
-      expectStatus: 200 # operational status, default=200
-      followRedirect: false # should fetch follow redirects, default=false
-      linkable: true # allows the title to be a link, default=true
+    name: deovr.com
+    # description: 'You write code. They handle the rest.' # default=empty
+    url: 'https://deovr.com/' # URL to fetch
+    method: GET # default=GET
+    expectStatus: 200 # operational status, default=200
+    followRedirect: false # should fetch follow redirects, default=false
+    linkable: true # allows the title to be a link, default=true
