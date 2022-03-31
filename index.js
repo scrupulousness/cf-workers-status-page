@@ -1,6 +1,6 @@
 import { handleEvent } from 'flareact'
 import { processCronTrigger } from './src/functions/cronTrigger'
- 
+
 /**
  * The DEBUG flag will do two things that help during development:
  * 1. we will skip caching on the edge, which makes it easier to
